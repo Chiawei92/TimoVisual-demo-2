@@ -1,0 +1,8 @@
+{
+  "name": "TechnoGrid Visualizer：2",
+  "description": "A sci-fi inspired interactive music visualizer featuring reactive particle systems and mathematical topology templates.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
